@@ -1,0 +1,39 @@
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 500px;
+}
+.borda-carrossel {
+    border: 0;
+    background: 0;
+    height: 500px;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    
+}   
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+/*
+.cor-especial {
+    color: darkred;
+} */
+
+.cor-especial-botao {
+    background-color: darkred;
+    border: 0;
+    color:white
+}
+.cor-especial-botao:hover {
+    background-color: rgba(139, 0, 0, .8);
+}
+.card-tamanho {
+    height: 200px;
+    object-fit: cover;
+}
+
+   
